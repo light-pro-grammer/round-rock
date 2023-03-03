@@ -1,0 +1,22 @@
+{
+  "name": "round-rock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/light-pro-grammer/round-rock.git"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/light-pro-grammer/round-rock/issues"
+  },
+  "homepage": "https://github.com/light-pro-grammer/round-rock#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
